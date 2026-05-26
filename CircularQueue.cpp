@@ -169,3 +169,10 @@ int main()
             }
             }
         }
+        catch (exception &e)
+        {
+            cout << "check for the valuea entered " << endl;
+        }
+    }
+    return 0;
+}
